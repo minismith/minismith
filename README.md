@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mini</h1>
-<h3 align="center">A passionate full stack developer based in London</h3>
-
-- 🌱 I’m currently learning **Vue.js**
-
-- 💬 Ask me about **my recent Rails project, Word of Mouth.**
-
-- 📫 How to reach me **mini@minismith.co.uk**
+<h3 align="center">A full stack developer based in Berlin</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
