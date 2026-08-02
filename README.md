@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mini</h1>
-<h3 align="center">A full stack developer based in Berlin</h3>
+<h3 align="center">A full stack product engineer based in Berlin</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
